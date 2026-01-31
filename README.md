@@ -34,8 +34,4 @@ I verified the security of this architecture through two distinct tests:
 
 ---
 
-### **A Pro-Tip for your GitHub**
 
-Since you are a **First Year BCA student**, adding a "Troubleshooting" note about the **CIDR overlap error** you encountered will show recruiters that you have real hands-on experience and problem-solving skills.
-
-**Would you like me to help you write a 1-sentence "LinkedIn Headline" that highlights both your IAM and VPC projects?**
